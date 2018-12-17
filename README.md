@@ -5,7 +5,8 @@
 - Sublime Text (notes)
 
 ## MacOSX stuff
-- BetterSnapTool: hotkeys for arranging windows
+- BetterSnapTool: hotkeys for arranging windows ($2.99)
+  - [SpectacleApp](https://www.spectacleapp.com/) (Free)
 - Alfred: A better `Cmd+Space` Spotlight/search tool.
 
 ## Terminal
