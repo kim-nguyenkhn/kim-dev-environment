@@ -1,6 +1,9 @@
 # kim-dev-environment
 
 ## Visual Studio Code Extensions
+
+Also see @viatsko's curated list on VS Code Extensions: https://github.com/viatsko/awesome-vscode
+
 - Bookmarks
 - bracket-pair-colorizer
 - es7-react-js-snippets
