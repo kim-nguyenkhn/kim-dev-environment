@@ -40,7 +40,9 @@ Also see @viatsko's curated list on VS Code Extensions: https://github.com/viats
 - Material-theme
 
 ## Browser Extensions
-- Vimium (on both [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/vimium-ff/) & [Chrome](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb))
+- Vimium (on both [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/vimium-ff/) & [Chrome](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)) - Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim.
+- [Ghostery](https://www.ghostery.com/) - Ghostery is a powerful privacy extension. Block ads, stop trackers and speed up websites.
+- [Octotree](https://github.com/ovity/octotree) - Extension to show code tree for GitHub. Useful for developers who frequently read source and do not want to download or checkout too many repositories.
 
 ## Note-takers
 - [Sublime Text](https://www.sublimetext.com/)
