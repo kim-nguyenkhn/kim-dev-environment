@@ -39,6 +39,9 @@ Also see @viatsko's curated list on VS Code Extensions: https://github.com/viats
 - markdown-all-in-one
 - Material-theme
 
+## Browser Extensions
+- Vimium (on both [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/vimium-ff/) & [Chrome](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb))
+
 ## Note-takers
 - [Sublime Text](https://www.sublimetext.com/)
 - [Evernote](https://evernote.com/)
