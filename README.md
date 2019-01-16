@@ -53,6 +53,7 @@ Also see @viatsko's curated list on VS Code Extensions: https://github.com/viats
 - BetterSnapTool: hotkeys for arranging windows ($2.99)
   - [SpectacleApp](https://www.spectacleapp.com/) (Free)
 - Alfred: A better `Cmd+Space` Spotlight/search tool.
+- [Rocket](https://matthewpalmer.net/rocket/): "Mind-blowing emoji on your Mac."
 
 ## Terminal
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
