@@ -33,7 +33,7 @@ Also see @viatsko's curated list on VS Code Extensions: https://github.com/viats
 - vscode-java-pack
 - vscode-java-test
 - vscode-maven
-- quokka-vscode
+- [quokka-vscode](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode): Live Scratchpad for JavaScript.
 - ReactSnippets
 - txt-syntax
 - markdown-all-in-one
