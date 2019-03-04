@@ -1,5 +1,11 @@
 # kim-dev-environment
 
+## Handy VS Code Commands
+- Add Cursors: `Opt + Cmd + Up/Down`
+- Copy current line below: `Shift + Alt + Up/Down`
+- Jump to next occurence: `Cmd + D`
+- Go to line number: `Ctrl + G`
+
 ## Visual Studio Code Extensions
 
 Also see @viatsko's curated list on VS Code Extensions: https://github.com/viatsko/awesome-vscode
