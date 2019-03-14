@@ -52,6 +52,7 @@ Also see @viatsko's curated list on VS Code Extensions: https://github.com/viats
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) - Turns language-specific module-loading statements like `include`, `require` or `import` into links. 
 
 ## Note-takers
+- [Notion](https://www.notion.so/) - The best note-taker of them all. Markdown-compatible, shareable URL's, widgets for calendars, project boards, and more. 
 - [BoostNote](https://boostnote.io/) - Free Markdown note-taking app. MacOS, Windows.
 - [Sublime Text](https://www.sublimetext.com/)
 - [Evernote](https://evernote.com/)
