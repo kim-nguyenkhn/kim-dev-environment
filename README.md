@@ -66,6 +66,7 @@ Also see @viatsko's curated list on VS Code Extensions: https://github.com/viats
 - [SourceTree](https://www.sourcetreeapp.com/): Free Git GUI.
 
 ## Terminal
+- [Dracula Theme for Terminal](https://github.com/dracula/dracula-theme)
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
   - [kimfork-robbyrussel.zsh-theme](kimfork-robbyrussel.zsh-theme): My fork of Robby Russel's Oh My ZSH theme. At the time of writing, the only change I made was to display the full path instead of the current working directory. See [this Stackoverflow](https://stackoverflow.com/questions/27885057/zsh-theme-for-full-path-display-git-changes) for more info.
 - [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc): Easy table-of-contents generator for Markdown files.
