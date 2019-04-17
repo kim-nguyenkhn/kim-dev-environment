@@ -59,11 +59,11 @@ Also see @viatsko's curated list on VS Code Extensions: https://github.com/viats
 - MacOS "Notes" App
 
 ## MacOSX stuff
-- BetterSnapTool: hotkeys for arranging windows ($2.99)
-  - [SpectacleApp](https://www.spectacleapp.com/) (Free)
+- [SpectacleApp](https://www.spectacleapp.com/) (Free)
 - Alfred: A better `Cmd+Space` Spotlight/search tool.
 - [Rocket](https://matthewpalmer.net/rocket/): "Mind-blowing emoji on your Mac."
 - [SourceTree](https://www.sourcetreeapp.com/): Free Git GUI.
+- [Colorpicker](https://electronjs.org/apps/colorpicker): Simple electron app for color-picking.
 
 ## Terminal
 - [Dracula Theme for Terminal](https://github.com/dracula/dracula-theme)
