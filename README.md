@@ -6,6 +6,11 @@
 - Jump to next occurence: `Cmd + D`
 - Go to line number: `Ctrl + G`
 
+## zshrc config
+```shell
+alias gitd="git diff --ignore-all-space"
+```
+
 ## Visual Studio Code Extensions
 
 Also see @viatsko's curated list on VS Code Extensions: https://github.com/viatsko/awesome-vscode
