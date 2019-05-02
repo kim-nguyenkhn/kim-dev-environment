@@ -2,6 +2,7 @@
 
 ## Handy VS Code Commands
 - Add Cursors: `Opt + Cmd + Up/Down`
+- Add Cursors to All Occurences: `Cmd + Shift + L`
 - Copy current line below: `Shift + Alt + Up/Down`
 - Jump to next occurence: `Cmd + D`
 - Go to line number: `Ctrl + G`
