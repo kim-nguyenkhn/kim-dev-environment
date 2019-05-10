@@ -6,6 +6,7 @@
 - Copy current line below: `Shift + Alt + Up/Down`
 - Jump to next occurence: `Cmd + D`
 - Go to line number: `Ctrl + G`
+- Open up Terminal/Panel: `Cmd + J`
 
 ## zshrc config
 ```shell
