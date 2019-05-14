@@ -10,7 +10,9 @@
 
 ## zshrc config
 ```shell
-alias gitd="git diff --ignore-all-space"
+alias gd="git diff --ignore-all-space"
+alias gds="git diff --ignore-all-space --staged"
+alias gs="git status"
 ```
 
 ## Visual Studio Code Extensions
