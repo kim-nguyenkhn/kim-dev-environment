@@ -8,11 +8,12 @@
 - Go to line number: `Ctrl + G`
 - Open up Terminal/Panel: `Cmd + J`
 
-## zshrc config
+## VIM commands 
 ```shell
-alias gd="git diff --ignore-all-space"
-alias gds="git diff --ignore-all-space --staged"
-alias gs="git status"
+{ and } - Move to the start/end of the previous/next code block (respectively)
+ctrl + b - Moves the cursor and the screen up half a page
+ctrl + d - Moves the cursor and the screen down half a page
+ctrl + e - Moves the screen down one line
 ```
 
 ## Visual Studio Code Extensions
