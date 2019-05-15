@@ -14,6 +14,12 @@
 ctrl + b - Moves the cursor and the screen up half a page
 ctrl + d - Moves the cursor and the screen down half a page
 ctrl + e - Moves the screen down one line
+
+5k - move cursor 5 lines up
+5j - move cursor 5 lines down
+
+13k - move cursor 13 lines up
+13j - move cursor 13 lines down
 ```
 
 ## Visual Studio Code Extensions
