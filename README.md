@@ -55,6 +55,7 @@ Also see @viatsko's curated list on VS Code Extensions: https://github.com/viats
 - [Octotree](https://github.com/ovity/octotree) - Extension to show code tree for GitHub. Useful for developers who frequently read source and do not want to download or checkout too many repositories.
 - [OctoLinker](https://github.com/OctoLinker/OctoLinker) - Turns language-specific module-loading statements like `include`, `require` or `import` into links. 
 - [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - Very powerful browser tool to edit or style any page like an artboard.
+- [Refined Github](https://github.com/sindresorhus/refined-github) - Extends Github to do even more?! Take notes, Microsoft?
 
 ## Note-takers
 - [Notion](https://www.notion.so/) - The best note-taker of them all. Markdown-compatible, shareable URL's, widgets for calendars, project boards, and more. 
