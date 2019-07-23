@@ -70,6 +70,7 @@ Also see @viatsko's curated list on VS Code Extensions: https://github.com/viats
 - [Rocket](https://matthewpalmer.net/rocket/): "Mind-blowing emoji on your Mac."
 - [SourceTree](https://www.sourcetreeapp.com/): Free Git GUI.
 - [Colorpicker](https://electronjs.org/apps/colorpicker): Simple electron app for color-picking.
+- [Keyboard Maestro](https://www.keyboardmaestro.com/main/): Tool to create Keyboard Macros.
 
 ## Terminal
 - [Dracula Theme for Terminal](https://github.com/dracula/dracula-theme)
