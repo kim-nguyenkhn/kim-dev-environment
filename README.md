@@ -72,6 +72,8 @@ Also see @viatsko's curated list on VS Code Extensions: https://github.com/viats
 - [Colorpicker](https://electronjs.org/apps/colorpicker): Simple electron app for color-picking.
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/): Tool to create Keyboard Macros.
 - [ngrok](https://ngrok.com/) ngrok exposes local servers behind NATs and firewalls to the public internet over secure tunnels.
+- [Automator] Creates workflows/actions on MacOS X.
+  - Can [rename files prefixed with their Created At date](https://www.youtube.com/watch?v=5prAiw3xlgM)
 
 ## Terminal
 - [Dracula Theme for Terminal](https://github.com/dracula/dracula-theme)
