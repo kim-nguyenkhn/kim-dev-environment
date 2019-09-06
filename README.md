@@ -84,3 +84,6 @@ Also see @viatsko's curated list on VS Code Extensions: https://github.com/viats
 
 ## Sketch Plugins
 - [sketch-syntax-highlighter](https://github.com/danielguillan/sketch-syntax-highlighter): Highlights code syntax within a Text node very nicely.
+
+## Git Hacks
+- [`git bisect`](https://git-scm.com/docs/git-bisect): Use binary search to find the commit that introduced a bug
