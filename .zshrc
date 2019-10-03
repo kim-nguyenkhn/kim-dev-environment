@@ -7,3 +7,9 @@ alias gclean="git clean -df"
 
 alias glistpruned="git branch -vv | grep 'origin/.*: gone]' | awk '{print $1}'"
 alias gdelpruned="git branch -vv | grep 'origin/.*: gone]' | awk '{print $1}' | xargs git branch -D"
+
+# https://coderwall.com/p/a8uxma/zsh-iterm2-osx-shortcuts
+bindkey "[D" backward-word
+bindkey "[C" forward-word
+bindkey "^[a" beginning-of-line
+bindkey "^[e" end-of-line
