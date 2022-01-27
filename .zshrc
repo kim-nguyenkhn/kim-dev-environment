@@ -1,4 +1,4 @@
-plugins=(git zsh-autosuggestions)
+plugins=(git zsh-autosuggestions copyfile)
 
 alias gd="git diff --ignore-all-space"
 alias gds="git diff --ignore-all-space --staged"
