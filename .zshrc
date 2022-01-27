@@ -1,3 +1,5 @@
+plugins=(git zsh-autosuggestions)
+
 alias gd="git diff --ignore-all-space"
 alias gds="git diff --ignore-all-space --staged"
 alias gs="git status"
