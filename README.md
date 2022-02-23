@@ -1,6 +1,7 @@
 # kim-dev-environment
 
 ## Handy VS Code Commands
+
 - Add Cursors: `Opt + Cmd + Up/Down`
 - Add Cursors to All Occurences: `Cmd + Shift + L`
 - Copy current line below: `Shift + Alt + Up/Down`
@@ -8,7 +9,8 @@
 - Go to line number: `Ctrl + G`
 - Open up Terminal/Panel: `Cmd + J`
 
-## VIM commands 
+## VIM commands
+
 ```shell
 { and } - Move to the start/end of the previous/next code block (respectively)
 ctrl + b - Moves the cursor and the screen up half a page
@@ -50,21 +52,24 @@ Also see @viatsko's curated list on VS Code Extensions: https://github.com/viats
 - Material-theme
 
 ## Browser Extensions
+
 - Vimium (on both [Firefox](https://addons.mozilla.org/en-GB/firefox/addon/vimium-ff/) & [Chrome](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb)) - Vimium provides keyboard shortcuts for navigation and control in the spirit of Vim.
 - [Ghostery](https://www.ghostery.com/) - Ghostery is a powerful privacy extension. Block ads, stop trackers and speed up websites.
 - [Octotree](https://github.com/ovity/octotree) - Extension to show code tree for GitHub. Useful for developers who frequently read source and do not want to download or checkout too many repositories.
-- [OctoLinker](https://github.com/OctoLinker/OctoLinker) - Turns language-specific module-loading statements like `include`, `require` or `import` into links. 
+- [OctoLinker](https://github.com/OctoLinker/OctoLinker) - Turns language-specific module-loading statements like `include`, `require` or `import` into links.
 - [VisBug](https://github.com/GoogleChromeLabs/ProjectVisBug) - Very powerful browser tool to edit or style any page like an artboard.
 - [Refined Github](https://github.com/sindresorhus/refined-github) - Extends Github to do even more?! Take notes, Microsoft?
 
 ## Note-takers
-- [Notion](https://www.notion.so/) - The best note-taker of them all. Markdown-compatible, shareable URL's, widgets for calendars, project boards, and more. 
+
+- [Notion](https://www.notion.so/) - The best note-taker of them all. Markdown-compatible, shareable URL's, widgets for calendars, project boards, and more.
 - [BoostNote](https://boostnote.io/) - Free Markdown note-taking app. MacOS, Windows.
 - [Sublime Text](https://www.sublimetext.com/)
 - [Evernote](https://evernote.com/)
 - MacOS "Notes" App
 
 ## MacOSX stuff
+
 - [SpectacleApp](https://www.spectacleapp.com/) (Free)
 - Alfred: A better `Cmd+Space` Spotlight/search tool.
 - [Rocket](https://matthewpalmer.net/rocket/): "Mind-blowing emoji on your Mac."
@@ -76,14 +81,17 @@ Also see @viatsko's curated list on VS Code Extensions: https://github.com/viats
   - Can [rename files prefixed with their Created At date](https://www.youtube.com/watch?v=5prAiw3xlgM)
 
 ## Terminal
+
 - [Dracula Theme for Terminal](https://github.com/dracula/dracula-theme)
 - [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh)
-  - [kimfork-robbyrussel.zsh-theme](kimfork-robbyrussel.zsh-theme): My fork of Robby Russel's Oh My ZSH theme. At the time of writing, the only change I made was to display the full path instead of the current working directory. See [this Stackoverflow](https://stackoverflow.com/questions/27885057/zsh-theme-for-full-path-display-git-changes) for more info.
+  - [powerlevel10k](https://github.com/romkatv/powerlevel10k): The best theme for zsh, fully customizable.
 - [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc): Easy table-of-contents generator for Markdown files.
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
 
 ## Sketch Plugins
+
 - [sketch-syntax-highlighter](https://github.com/danielguillan/sketch-syntax-highlighter): Highlights code syntax within a Text node very nicely.
 
 ## Git Hacks
+
 - [`git bisect`](https://git-scm.com/docs/git-bisect): Use binary search to find the commit that introduced a bug
