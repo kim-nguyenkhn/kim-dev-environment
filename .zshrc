@@ -1,5 +1,8 @@
 plugins=(git zsh-autosuggestions copyfile)
 
+alias g="git"
+alias wip="git add .; git commit -m 'wip' -n"
+alias gcm="git commit"
 alias gd="git diff --ignore-all-space"
 alias gds="git diff --ignore-all-space --staged"
 alias gs="git status"
