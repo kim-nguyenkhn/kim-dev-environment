@@ -28,6 +28,7 @@ ctrl + e - Moves the screen down one line
 
 Also see @viatsko's curated list on VS Code Extensions: https://github.com/viatsko/awesome-vscode
 
+- github.copilot
 - bracket-pair-colorizer
 - es7-react-js-snippets
 - gitlens
@@ -87,6 +88,8 @@ Also see @viatsko's curated list on VS Code Extensions: https://github.com/viats
   - [powerlevel10k](https://github.com/romkatv/powerlevel10k): The best theme for zsh, fully customizable.
 - [github-markdown-toc](https://github.com/ekalinin/github-markdown-toc): Easy table-of-contents generator for Markdown files.
 - [diff-so-fancy](https://github.com/so-fancy/diff-so-fancy)
+- [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+- [Github CLI](https://cli.github.com/)
 
 ## Sketch Plugins
 
