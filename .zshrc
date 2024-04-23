@@ -13,6 +13,7 @@ alias ghprc="gh pr checks"
 alias gprune="git remote prune origin"
 alias gdryprune="git remote prune origin --dry-run"
 alias gclean="git clean -df"
+alias plc='git remote prune origin && git gc --aggressive --prune=all && git fsck && git prune'
 
 alias glistpruned="git branch -vv | grep 'origin/.*: gone]' | awk '{print $1}'"
 alias gdelpruned="git branch -vv | grep 'origin/.*: gone]' | awk '{print $1}' | xargs git branch -D"
